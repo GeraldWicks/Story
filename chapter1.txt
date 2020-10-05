@@ -1,1 +1,2 @@
 The first story of manies, the beginning of everything.
+Version 2.0.
